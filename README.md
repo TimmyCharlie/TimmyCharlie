@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimmyCharlie
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ... whatever
+- 💞️ I’m looking forward to get a job :)
 - 📫 Reach me at Timmy_Charlie@outlook.com
 
 <!---
